@@ -21,6 +21,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarang999&show_icons=true&locale=en" alt="sarang999" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarang999/" height="30" width="40" /></a><a href="https://twitter.com/sarangssc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarangssc" height="30" width="40" /></a>
+<a href="https://medium.com/@sarangchaudhary2014" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarangchaudhary2014" height="30" width="40" /></a> <a href="https://www.hackerrank.com/sarangchaudhary1?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarangchaudhary1" height="30" width="40" /></a>
+<p/>
+
 <!--
 **sarang999/sarang999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.leetcode.com/jishanpatel7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jishanpatel7/" height="30" width="40" /></a>
 -->
