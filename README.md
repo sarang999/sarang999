@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello Techies 👋, I'm Sarang Chaudhary
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Tech+Enthusiast;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+
+
+## 🙋‍♂️ About Me
+
+</br>
+
+- 📫 How to reach me **sarangchaudhary2014@gmail.com**
 
 <!--
 **sarang999/sarang999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
