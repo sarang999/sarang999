@@ -1,15 +1,17 @@
-# Hello Techies 👋, I'm Sarang Chaudhary
+# Hello Techies 👋, I'm Sarang Chaudhary Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Tech+Enthusiast;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 <h2> About Me </h2>
 
-</br>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 💬 Ask me about **JavaScript, React, DSA, Node.js, Express, MongoDB**
+
+
+
+- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
 - 📫 How to reach me **sarangchaudhary2014@gmail.com**
 
