@@ -1,4 +1,6 @@
-# Hello Techies 👋, I'm Sarang Chaudhary Tech Enthusiast
+# Hello Techies 👋, I'm Sarang Chaudhary
+
+<h3 align="center">Tech Enthusiast! Take a Challenge! Conquer It! Repeat! Never Settle!</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
