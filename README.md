@@ -15,8 +15,8 @@ Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;
 
 
 <h2> About Me </h2>
-
-
+ <div align="left">
+  
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 💬 Ask me about **JavaScript, React, DSA, Node.js, Express, MongoDB**
@@ -28,6 +28,8 @@ Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;
 - 🗺️ Want to know more? Check out my portfolio <a href="https://sarangchaudhary-dev.netlify.app/" target="blank" > here 🔗</a>
 
 - 📄 Curriculum Vitae [Click here](https://drive.google.com/file/d/1TcYTNMY4FanNffmtiJ0jr6VXd3_i2w9u/view?usp=sharing)
+</div>
+
 ---
 <p align="center"> <img width="18%" height="30px" src="https://komarev.com/ghpvc/?username=sarang999&label=Visitors&color=0e75b6&style=flat" alt="sarang999" /></p>
 
