@@ -1,8 +1,12 @@
 
 <h1 align="center">Hello Techies<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sarang Chaudhary </h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer...;Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;Always%20Ready%20to%20Adopt%20new%20Technologies&center=true&width=500&height=50&font=georgia"></a>
-</p>
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg) -->
+<div  align="center"><a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer...;Always%20Ready%20to%20Adopt%20new%20Technologies&center=true&width=500&height=30&font=georgia"></a>
+</p> <div/>
+
+<h3  align="center" color="red">Take a Challenge ! Conquer It ! Repeat ! Never Settle !<h3/>
+<!--
+Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Masai+School+Student)](https://git.io/typing-svg) -->
 
 
