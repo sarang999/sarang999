@@ -15,9 +15,12 @@ Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;
 
 
 <h2> About Me </h2>
+A passionate individual who loves building web applications, a developer, an engineer by profession and a trader by interest.
+ 
+My perspective of being determined towards the software world and its development is for the betterment of mankind and improve the standard of living of the society this encouraged me to take up engineering as a profession.
  <div align="left">
   
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 Currently I am excited about joining an organization and ready to take up a challenging job in  **Full-Stack Web Development** field.
 
 - 💬 Ask me about **JavaScript, React, DSA, Node.js, Express, MongoDB**
 
