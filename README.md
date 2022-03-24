@@ -93,7 +93,7 @@ My perspective of being determined towards the software world and its developmen
 
  # Support in Saving Earth
 
-If you want Lions and other species not to seen in Museum like the Dinos. So please do your part in Saving Mother Earth. Your just proper usage of resources and less wastage is enough. Please! There is no planet B 🙌
+If you want your future generations to breathe in pure oxygen rather than toxic chemicals. So please do your part in Saving Mother Earth. Your just proper usage of resources and less wastage is enough. Please! There is no planet B 🙌
 <br><br>
 
 
