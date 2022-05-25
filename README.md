@@ -15,7 +15,7 @@ Take+a+Challenge+!+Conquer+It+!+Repeat+!+Never+Settle+!;
 
 
 <h2> About Me </h2>
-A passionate individual who loves building web applications, a developer, an engineer by profession and a trader by interest.
+A passionate individual who loves building web applications, a developer, an engineer by profession and a investor by interest.
  
 My perspective of being determined towards the software world and its development is for the betterment of mankind and improve the standard of living of the society this encouraged me to take up engineering as a profession.
  <div align="left">
