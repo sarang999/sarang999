@@ -75,7 +75,6 @@ My perspective of being determined towards the software world and its developmen
 <p  align="center"><img width="50%" border="1" margin-bottom= "30" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarang999&show_icons=true&locale=en&layout=compact" alt="sarang999"  /></p>
 
 
-<p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=sarang999&show_icons=true&locale=en" alt="sarang999" /></p>
 
 <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang999&" alt="sarang999" /></p>
 
