@@ -27,7 +27,7 @@ My perspective of being determined towards the software world and its developmen
 
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
-- ⚡ For fun, I like Diplomacy & GeoPolitics, I am a noob trader as well.
+- ⚡ For fun, I like Diplomacy & GeoPolitics, i prefer analysing the charts of stocks and indexes in my mean time.
 - 🗺️ Want to know more? Check out my portfolio <a href="https://sarangchaudhary-dev.netlify.app/" target="blank" > here 🔗</a>
 
 - 📄 Curriculum Vitae [Click here](https://drive.google.com/file/d/1TcYTNMY4FanNffmtiJ0jr6VXd3_i2w9u/view?usp=sharing)
