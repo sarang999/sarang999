@@ -164,7 +164,16 @@ August 2017 - November 2020
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
-<div align="center"> <p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Open+to+Collaborations!;Let's+Build+Something+Amazing!" alt="Typing SVG" /> </p> <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/sarangssc" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://medium.com/@sarangchaudhary2014" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> <a href="mailto:sarangchaudhary2014@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://sarangchaudhary.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> </div> <br /> 
+<div align="center"> <p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Open+to+Collaborations!;Let's+Build+Something+Amazing!" alt="Typing SVG" /> </p> 
+ 
+ <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
+ <a href="https://twitter.com/sarangssc" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a>
+ 
+ <a href="mailto:sarangchaudhary2014@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> 
+ <a href="https://stackoverflow.com/users/22754685/sarang-chaudhary" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+ <a href="https://sarangchaudhary.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> </div> <br /> 
 
 <div align="center"> <h3>📍 Quick Links</h3> <p> 🌐 <a href="https://sarangchaudhary.vercel.app/" target="_blank">Portfolio</a> • 📄 <a href="https://drive.google.com/file/d/1f-Wu-H6OOrxBVOH6POUqfPrsIOwfitWL/view" target="_blank">Resume</a> • ⭐ <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/details/recommendations/" target="_blank">Testimonials</a> • 💼 <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank">LinkedIn</a> </p> </div> <br /> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div> 
 
