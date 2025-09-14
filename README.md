@@ -44,7 +44,7 @@ const sarang = {
     pronouns: "He/Him",
     currentRole: "Frontend Engineer @ Gale Partners",
     location: "Bengaluru, India 🇮🇳",
-    experience: "3+ years",
+    experience: "3.6+ years",
     workingOn: ["React", "React Native", "Next.js"],
     askMeAbout: ["Web Dev", "Mobile Apps", "UI/UX", "Performance"],
     funFacts: {
@@ -57,7 +57,7 @@ const sarang = {
 ```
 ## 💼 Professional Highlights
 
-- 🚀 **3+ Years** of Frontend Engineering expertise
+- 🚀 **3.6+ Years** of Frontend Engineering expertise
 - 🌍 Delivered solutions for **29+ countries** (Chili's Global App)
 - 🏢 Built enterprise dashboards for **multinational** companies
 - 📱 Developed apps supporting **200+ locations** across **75 countries**
@@ -87,25 +87,26 @@ const sarang = {
 
 ## 🏆 Projects
 
-<div align="left">
+### 🎬 MilkPep Video Customizer Tool
+<div align="left"> 
+ 
+- 🧩 Architected dynamic form generation system adapting to user selections for video customization 
+- 🎥 Developed real-time video previewer rendering customizations instantly
+- 🤝 Collaborated with motion designers to implement visual changes without server-side rendering
+- 💾 Optimized asset management system significantly reducing cloud storage costs
+- ✅ Built robust state management with comprehensive validation ensuring 90%+ test coverage via Vitest 
+</div>
 
 ### 🍔 Chili's Global Platform
-
-<div align="left">
-🌐 Web Application
-
-- 🔍 SEO-optimized restaurant location system with Next.js SSR
-- 🗺️ Custom XML sitemaps & Google Maps integration
-- 🎁 Rewards program with authentication & personalized offers
-- 📊 90%+ test coverage with Jest framework
-- 📈 Google Tag Manager for analytics
-
-**📱 Mobile Application | iOS & Android**
-
+<div align="left"> 
+ 
+🌐 Web & Mobile Application | <a href="https://www.chilis.com/" target="_blank">Website</a> | <a href="https://play.google.com/store/apps/details?id=com.brinker.chilis" target="_blank">Android</a> | <a href="https://apps.apple.com/us/app/chilis/id464383246" target="_blank">iOS</a>
+- 📱 Cross-platform solution serving 29+ countries with 1.29M+ users and 2.09M+ sessions
+- 💰 Generated $16M in revenue within one month of tech stack migration
+- 🔍 SEO-optimized restaurant location system with Next.js SSR & custom XML sitemaps
 - 💳 Multi-payment integration (Credit Card, Google Pay, Gift Cards)
-- 🌍 Cross-platform support for 29+ countries
-- ⚡ Optimized performance with lazy-loading & caching
-- 🔐 Secure account management system
+- ⚡ 17-minute average session duration with optimized performance
+- 📊 90%+ test coverage with Jest framework
 </div>
 
 ### 📊 Pella Business Dashboard
