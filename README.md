@@ -44,7 +44,7 @@ const sarang = {
     pronouns: "He/Him",
     currentRole: "Frontend Engineer @ Gale Partners",
     location: "Bengaluru, India 🇮🇳",
-    experience: "3.6+ years",
+    experience: "Around 4 years",
     workingOn: ["React", "React Native", "Next.js"],
     askMeAbout: ["Web Dev", "Mobile Apps", "UI/UX", "Performance"],
     funFacts: {
@@ -57,7 +57,7 @@ const sarang = {
 ```
 ## 💼 Professional Highlights
 
-- 🚀 **3.6+ Years** of Frontend Engineering expertise
+- 🚀 **Around 4 Years** of Frontend Engineering expertise
 - 🌍 Delivered solutions for **29+ countries** (Chili's Global App)
 - 🏢 Built enterprise dashboards for **multinational** companies
 - 📱 Developed apps supporting **200+ locations** across **75 countries**
