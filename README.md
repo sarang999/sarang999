@@ -120,6 +120,19 @@ const sarang = {
 - 🔐 Secure asset repository with protected routes
 </div>
 
+
+### ☕ Starbucks – Enterprise Multi-Locale Marketing Platform (US | CA | CA-FR)
+<div align="left"> 
+ 
+🌐 Web Application | <a href="https://protein.starbucks.com/" target="_blank">US</a> | <a href="https://protein.starbucks.ca/" target="_blank">CA</a> | <a href="https://proteines.starbucks.ca/" target="_blank">CA-FR</a>
+- 🌍 Built a production-grade Next.js 15 marketing platform with SSG and dynamic locale routing supporting en-US, en-CA, fr-CA
+- 🔍 Implemented a SEO-first architecture with automated XML sitemaps, canonical URLs, and JSON-LD schema, maximizing search visibility across regions
+- 🧩 Developed 25+ reusable, accessible React components using Material-UI, responsive breakpoints, and documented via Storybook
+- 🧠 Designed a headless, JSON-driven content system with 15+ TypeScript interfaces, enabling content updates without redeployment
+- 🧪 Established Jest-based testing, build validation, CSP headers, and performance optimizations ensuring production-ready static exports
+- 📊 90%+ test coverage with Jest framework
+</div>
+
 ### 🎸 Hard Rock Mobile App
 
 <div align="left">
