@@ -46,7 +46,7 @@ const sarang = {
     location: "Bengaluru, India 🇮🇳",
     experience: "4+ Years",
     expertise: ["React", "React Native", "Next.js", "TypeScript"],
-    currentlyBuilding: ["Enterprise CMS Platforms", "AI-Augmented Workflows"],
+    currentlyBuilding: ["Scalable Product", "Enterprise CMS Platforms", "AI-Augmented Workflows"],
     askMeAbout: ["Web Dev", "Mobile Apps", "Performance", "AI Tooling"],
     funFacts: {
         tea: "Fuel for deep work 🍵",
