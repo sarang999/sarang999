@@ -1,9 +1,9 @@
 <h1 align="center">
- 🚀 Sarang Chaudhary | Empowering Businesses through Technology
+  🚀 Sarang Chaudhary | Senior Software Engineer
 </h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1180&lines=Hey+there!+I'm+Sarang+Chaudhary+👋;Frontend+Engineer+|+React%2C+Next.js%2C+React+Native+Specialist;Building+Digital+Experiences+Since+2021;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1180&lines=Senior+Software+Engineer+%7C+4%2B+Years+Experience;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript+Specialist;Built+for+Chili%27s%2C+Starbucks%2C+Hard+Rock+%26+More;Shipped+Products+to+29%2B+Countries+%26+1.29M%2B+Users;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -42,26 +42,40 @@
 ```javascript
 const sarang = {
     pronouns: "He/Him",
-    currentRole: "Frontend Engineer @ Gale Partners",
+    currentRole: "Senior Associate @ GALE",
     location: "Bengaluru, India 🇮🇳",
-    experience: "Around 4 years",
-    workingOn: ["React", "React Native", "Next.js"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "UI/UX", "Performance"],
+    experience: "4+ Years",
+    expertise: ["React", "React Native", "Next.js", "TypeScript"],
+    currentlyBuilding: ["Enterprise CMS Platforms", "AI-Augmented Workflows"],
+    askMeAbout: ["Web Dev", "Mobile Apps", "Performance", "AI Tooling"],
     funFacts: {
-        coffee: "Fuel for code ☕",
+        tea: "Fuel for deep work 🍵",
         investing: "Charts & Stocks 📈",
         geopolitics: "World Affairs 🌍"
     },
-    currentGoal: "Building scalable solutions that matter!"
+    currentGoal: "Shipping scalable solutions that matter at global scale!"
 };
 ```
+
+<br />
+
+## 🏆 Professional Summary
+
+> Senior Software Engineer with **4+ years** of experience architecting scalable, production-grade web and mobile platforms for global brands including **Chili's**, **Hard Rock**, **Starbucks**, and **Creative Planning**. Proven track record delivering full-stack solutions spanning distributed caching, headless CMS integrations, React component systems, and AI-augmented development workflows — consistently shipping high-quality, maintainable code in agile, cross-functional teams.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💼 Professional Highlights
 
-- 🚀 **Around 4 Years** of Frontend Engineering expertise
-- 🌍 Delivered solutions for **29+ countries** (Chili's Global App)
-- 🏢 Built enterprise dashboards for **multinational** companies
-- 📱 Developed apps supporting **200+ locations** across **75 countries**
-- ⚡ Achieved **90%+ code coverage** through comprehensive testing
+- 🚀 **4+ Years** of Software Engineering expertise across Web & Mobile
+- 🌍 Delivered solutions for **29+ countries** (Chili's Global Platform)
+- 👥 Shipped products to **1.29M+ users** with **2.09M+ sessions**
+- 💰 Contributed to **$16M in revenue** within one month of tech stack migration
+- 📱 Built apps supporting **200+ locations** across **75 countries** (Hard Rock)
+- ⚡ Architected **3-layer caching** (Valkey + ISR + CloudFront) cutting API response from **800ms → under 50ms**
+- 📉 Reduced CDN costs by **80%** through intelligent cache invalidation strategies
+- ✅ Maintained **90%+ code coverage** across all major production projects
+- 🤖 Embedded **AI tooling** (GitHub Copilot, Claude, ChatGPT) into production workflows for **2.5+ years**
 - 🌟 Check out my [testimonials](https://www.linkedin.com/in/sarang-chaudhary-401405178/details/recommendations/) from colleagues!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -69,128 +83,224 @@ const sarang = {
 ## 🛠️ Tech Arsenal
 
 <div align="left">
- 
-💻 Core Technologies
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> </p>
 
-🎨 Frontend Tools
-<p> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" /> </p>
+💻 **Core Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
-🔧 Backend & Database
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></p>
+🎨 **Frontend & Styling**
+<p>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-🚀 Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /> </p> 
-</div> 
+🔗 **APIs & Backend**
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+☁️ **Cloud, DevOps & Caching**
+<p>
+  <img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CloudFront" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis/Valkey" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+🧪 **Testing & Developer Tools**
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</p>
+
+🤖 **AI Tools & Workflow Automation**
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Projects
+## 🏗️ Projects & Impact
 
-### 🎬 MilkPep Video Customizer Tool
-<div align="left"> 
- 
-- 🧩 Architected dynamic form generation system adapting to user selections for video customization 
-- 🎥 Developed real-time video previewer rendering customizations instantly
-- 🤝 Collaborated with motion designers to implement visual changes without server-side rendering
-- 💾 Optimized asset management system significantly reducing cloud storage costs
-- ✅ Built robust state management with comprehensive validation ensuring 90%+ test coverage via Vitest 
+---
+
+### 🏦 Creative Planning — Enterprise CMS Platform
+<div align="left">
+
+🌐 **Web Application** | [creativeplanning.com](https://creativeplanning.com/)
+
+- Engineered a **production pnpm monorepo (6 packages)** on Next.js 16 + React 19 with Turbopack, proxy middleware, async APIs, and CSS-first Tailwind v4 — delivering independent deployability across all services
+- Architected a **3-layer cache** (Valkey + ISR + CloudFront with batched invalidation) and a **hash-per-category sitemap engine** with O(1) updates, Contentful/WordPress merging, and international variant support — validated at **150,000+ entries**, cutting response from **800ms → under 50ms** and CDN costs by **80%**
+- Integrated **Contentful headless CMS** with dual GraphQL clients, 12+ content types, full SEO metadata (OG, Twitter, canonical, robots), and Live Preview SDK with Inspector Mode — enabling live content updates without redeployment
+- Delivered **24+ accessible React components** (React Aria + Tailwind v4) with a type-safe PageBuilder, **Storybook 10** visual regression, nonce-based CSP, HSTS, and PII-safe logging — deployed via **GitHub Actions to AWS ECR/ECS in under 8 minutes**
 </div>
+
+---
 
 ### 🍔 Chili's Global Platform
-<div align="left"> 
- 
-🌐 Web & Mobile Application | <a href="https://www.chilis.com/" target="_blank">Website</a> | <a href="https://play.google.com/store/apps/details?id=com.brinker.chilis" target="_blank">Android</a> | <a href="https://apps.apple.com/us/app/chilis/id464383246" target="_blank">iOS</a>
-- 📱 Cross-platform solution serving 29+ countries with 1.29M+ users and 2.09M+ sessions
-- 💰 Generated $16M in revenue within one month of tech stack migration
-- 🔍 SEO-optimized restaurant location system with Next.js SSR & custom XML sitemaps
-- 💳 Multi-payment integration (Credit Card, Google Pay, Gift Cards)
-- ⚡ 17-minute average session duration with optimized performance
-- 📊 90%+ test coverage with Jest framework
-</div>
-
-### 📊 Pella Business Dashboard
-
 <div align="left">
 
-- 📈 Comprehensive analytics dashboard for marketing ROI
-- 👥 Role-based access control for administrators
-- 📊 Data visualization with ECharts & Leaflet heat maps
-- 🎯 Dynamic filtering with MUI tables
-- 🔐 Secure asset repository with protected routes
+🌐 **Web & Mobile** | [Website](https://www.chilis.com/) | [Android](https://play.google.com/store/apps/details?id=com.brinker.chilis) | [iOS](https://apps.apple.com/us/app/chilis/id464383246)
+
+- **Cross-platform solution** serving 29+ countries, 1.29M+ users, 2.09M+ sessions, and **$16M in revenue** within one month of tech stack migration
+- Built an **SEO-optimized location system** with Next.js SSR, custom XML sitemaps, and Google Maps integration — significantly improving SERP rankings and organic traffic
+- Implemented a **secure multi-payment system** (credit cards, Google Pay, gift cards) with account management and checkout flows, driving a **17-minute average session duration**
+- Optimized performance via state management, code splitting, and caching; established **Jest with 90%+ coverage** and integrated Google Tag Manager for behavioral analytics
 </div>
 
+---
 
-### ☕ Starbucks – Enterprise Multi-Locale Marketing Platform (US | CA | CA-FR)
-<div align="left"> 
- 
-🌐 Web Application | <a href="https://protein.starbucks.com/" target="_blank">US</a> | <a href="https://protein.starbucks.ca/" target="_blank">CA</a> | <a href="https://proteines.starbucks.ca/" target="_blank">CA-FR</a>
-- 🌍 Built a production-grade Next.js 15 marketing platform with SSG and dynamic locale routing supporting en-US, en-CA, fr-CA
-- 🔍 Implemented a SEO-first architecture with automated XML sitemaps, canonical URLs, and JSON-LD schema, maximizing search visibility across regions
-- 🧩 Developed 25+ reusable, accessible React components using Material-UI, responsive breakpoints, and documented via Storybook
-- 🧠 Designed a headless, JSON-driven content system with 15+ TypeScript interfaces, enabling content updates without redeployment
-- 🧪 Established Jest-based testing, build validation, CSP headers, and performance optimizations ensuring production-ready static exports
-- 📊 90%+ test coverage with Jest framework
+### ☕ Starbucks — Enterprise Multi-Locale Marketing Platform
+<div align="left">
+
+🌐 **Web Application** | [US](https://protein.starbucks.com/) | [CA](https://protein.starbucks.ca/) | [CA-FR](https://proteines.starbucks.ca/)
+
+- Architected a **Next.js 15 SSG application** with multi-locale support (en-US, en-CA, fr-CA), dynamic routing, automated sitemaps, canonical URLs, JSON-LD schema, and a **headless JSON-driven content architecture** with 15+ TypeScript interfaces
+- Engineered **25+ reusable, accessible React components** with MUI theming, interactive quizzes, parallax scrolling, and viewport-based animations — documented and validated via Storybook
+- Established automated build validation, Jest unit testing, **CSP headers**, and accessibility compliance checks for consistently high-performance production exports with **90%+ test coverage**
 </div>
+
+---
 
 ### 🎸 Hard Rock Mobile App
-
 <div align="left">
 
-- 🌎 Supporting 200+ locations across 75 countries
-- 🔑 Contactless features (CLEAR verification, Virdee mobile keys)
-- 💰 Integrated Everi payment processing
-- 🎪 Tiered loyalty program implementation
-- 🧪 A/B testing for UX improvements
+📱 **Mobile Application** | [Android](https://play.google.com/store/apps/details?id=com.shre.unitymobile.prod) | [iOS](https://apps.apple.com/us/app/unity-by-hard-rock/id1609454172)
+
+- Built a **contactless hospitality system** (CLEAR verification, Virdee mobile keys) with location-based venue features for **200+ locations across 75 countries**, Everi payment processing, and a tiered loyalty program
+- Enhanced performance through **WebView architecture** and dynamic content management (Sitecore/Firebase), implementing A/B testing for data-driven UX improvements
 </div>
 
-### 🛒 Personal E-commerce Project
+---
 
+### 📊 Pella Business Dashboard
 <div align="left">
 
-- 🔐 Implemented secure user authentication and authorization
-- 🛍️ Built comprehensive product management system
-- 📱 Designed responsive UI for all device sizes
-- 🔍 Added advanced search and filtering capabilities
+- Built a **comprehensive analytics dashboard** with role-based access control (RBAC), enabling administrators and branch managers to track marketing ROI and performance metrics
+- Implemented **data visualization** with ECharts, Leaflet heat maps, and MUI tables with dynamic filtering, plus promotion management for multiple offer types
+- Designed a **secure RBAC infrastructure** with dynamic menu generation and a protected asset repository, optimizing performance while maintaining data security
 </div>
+
+---
+
+### 🎬 MilkPep Video Customizer Tool
+<div align="left">
+
+- Architected a **responsive interactive UI** with dynamic form generation and a real-time video previewer for seamless client-side template customization (container types, sizes, colors, branded elements) in collaboration with motion designers
+- Implemented an **optimized asset management system** reducing cloud storage costs while maintaining high-quality previews; built robust state management with comprehensive validation and **90%+ test coverage via Vitest**
+</div>
+
+---
+
+### 🤖 AI-Driven Development & Internal Tooling
+<div align="left">
+
+- Embedded **GitHub Copilot, OpenCode, Claude, and ChatGPT** into daily workflows for **2.5+ years** across code generation, debugging, and test authoring — maintaining full architecture ownership while consistently shipping faster and with higher quality
+- Engineered a **production-ready AI onboarding system**: `copilot-instructions.md`, 4 specialized Copilot agents *(FE Agent, Docs Generator, Code Reviewer, OpenCode Agent)*, and a structured `ai_wiki` — adopted across multiple projects to enforce architecture standards and accelerate team onboarding
+- Configured **OpenCode MCP servers** for Jira, Figma, and Contentful sandbox — enabling context-aware AI development directly from design specs, tickets, and live content schemas without context-switching
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center"> 
-<!--  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarang999&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" /> -->
- </div>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang999&theme=react&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" /> </div> 
-<!-- <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarang999&custom_title=Sarang's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF" alt="Contribution Graph" /> </div>  -->
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarang999&theme=react&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 Education
+
 <div align="left">
-🎯 Full-Stack Development | Masai School, Bangalore
-August 2021 - April 2022
 
-🎓 B.E. (First Class with Distinction) | Savitribai Phule Pune University
-August 2017 - November 2020
+🎯 **Full-Stack Development** | Masai School, Bangalore
+_August 2021 – April 2022_
 
-</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🎓 **B.E. (First Class with Distinction)** | Savitribai Phule Pune University
+_August 2017 – November 2020_
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
-<div align="center"> <p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Open+to+Collaborations!;Let's+Build+Something+Amazing!" alt="Typing SVG" /> </p> 
- 
- <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
- <a href="https://twitter.com/sarangssc" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a>
- 
- <a href="mailto:sarangchaudhary2014@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> 
- <a href="https://stackoverflow.com/users/22754685/sarang-chaudhary" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-</a>
- <a href="https://sarangchaudhary.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> </div> <br /> 
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Open+to+Exciting+Opportunities!;Let's+Build+Something+That+Scales!" alt="Typing SVG" />
+  </p>
 
-<div align="center"> <h3>📍 Quick Links</h3> <p> 🌐 <a href="https://sarangchaudhary.vercel.app/" target="_blank">Portfolio</a> • 📄 <a href="https://drive.google.com/file/d/1f-Wu-H6OOrxBVOH6POUqfPrsIOwfitWL/view" target="_blank">Resume</a> • ⭐ <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/details/recommendations/" target="_blank">Testimonials</a> • 💼 <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank">LinkedIn</a> </p> </div> <br /> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div> 
+  <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sarangssc" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:sarangchaudhary2014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://stackoverflow.com/users/22754685/sarang-chaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://sarangchaudhary.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-<div align="center"> <h3>⚡ "Take a Challenge! Conquer It! Repeat! Never Settle!" ⚡</h3> </div> 
+<br />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%" /></div>
+<div align="center">
+  <h3>📍 Quick Links</h3>
+  <p>
+    🌐 <a href="https://sarangchaudhary.vercel.app/" target="_blank">Portfolio</a> •
+    📄 <a href="https://drive.google.com/file/d/1f-Wu-H6OOrxBVOH6POUqfPrsIOwfitWL/view" target="_blank">Resume</a> •
+    ⭐ <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/details/recommendations/" target="_blank">Testimonials</a> •
+    💼 <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/" target="_blank">LinkedIn</a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h3>⚡ "Take a Challenge. Conquer It. Repeat. Never Settle." ⚡</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%" />
+</div>
+
+<!--
+SEO Keywords: Senior Software Engineer, Frontend Engineer, React Developer, Next.js Developer,
+TypeScript, React Native, JavaScript, Node.js, GraphQL, Contentful, Tailwind CSS, Redux,
+AWS CloudFront, Docker, GitHub Actions, Valkey, Redis, Storybook, Jest, Vitest,
+Web Performance, SEO Optimization, Headless CMS, Enterprise Platform, Monorepo, pnpm,
+AI Tooling, GitHub Copilot, Bengaluru, India, Hire, Remote, Available
+-->
