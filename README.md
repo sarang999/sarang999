@@ -23,7 +23,7 @@
   <a href="mailto:sarangchaudhary2014@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1f-Wu-H6OOrxBVOH6POUqfPrsIOwfitWL/view" target="_blank">
+  <a href="https://drive.google.com/file/d/10e7faVK4nKOi4UGJ8tb-E3sKYqGwnUBY/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/sarang-chaudhary-401405178/details/recommendations/" target="_blank">
