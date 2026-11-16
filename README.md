@@ -25,7 +25,7 @@
 </p>
 
 > [!TIP]
-> **The thirty-second version.** I take a product from a blank Figma file to the App Store, Google Play and the web, as one person: UX research, flows, a theme that is yours alone, the Next.js and React Native build, and the store release. Today I lead web and mobile at **Konnect**, an AI travel super-app in Seoul, where I design the product with the CEO and then ship it. Before that I built platforms for **Chili's, Starbucks, Hard Rock and Creative Planning** at Gale Partners. Every result below is measured before and after.
+> **The thirty-second version.** I take a product from a blank Figma file to the App Store, Google Play and the web, as one person: UX research, flows, a theme that is yours alone, the Next.js and React Native build, and the store release. Today I lead web and mobile at **Konnect**, an AI travel super-app in Seoul, where I design the product with the CEO and then ship it. Before that, at Gale Partners, I built web and mobile products for **Chili's, Starbucks, Hard Rock, Creative Planning, Fogo de Chão, Pella and MilkPEP**. Every result below is measured before and after.
 
 <p align="center">
   <b>This pitch in your language:</b>
@@ -117,6 +117,8 @@ AI search with streamed answers, events, taxi cashback, onboarding and profiles,
 
 ## Work that shipped · Gale Partners, 2022–2026
 
+<p align="center"><sub>Brands: Chili's (Brinker International) · Starbucks · Hard Rock · Creative Planning · Fogo de Chão · Pella · MilkPEP</sub></p>
+
 <details>
 <summary><b>🏦 Creative Planning · enterprise CMS platform</b> — Next.js 16 monorepo, 3-layer cache, 150k-entry sitemap engine · <a href="https://creativeplanning.com/">creativeplanning.com</a></summary>
 
@@ -149,11 +151,11 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>☕ Starbucks · 🎸 Hard Rock · 📊 Pella · 🎬 MilkPEP</b> — marketing, hospitality and analytics platforms</summary>
+<summary><b>☕ Starbucks · 🎸 Hard Rock · 📊 Pella business dashboard · 🎬 MilkPEP</b> — marketing, hospitality and analytics platforms</summary>
 
 - **Starbucks:** Next.js 15 SSG platform in en-US, en-CA and fr-CA with JSON-LD, automated sitemaps and 25+ accessible components in Storybook. <a href="https://protein.starbucks.com/">US</a> · <a href="https://protein.starbucks.ca/">CA</a> · <a href="https://proteines.starbucks.ca/">CA-FR</a>
 - **Hard Rock Unity:** contactless hospitality for 200+ locations in 75 countries (CLEAR identity, Virdee mobile keys, Everi payments, tiered loyalty). <a href="https://play.google.com/store/apps/details?id=com.shre.unitymobile.prod">Android</a> · <a href="https://apps.apple.com/us/app/unity-by-hard-rock/id1609454172">iOS</a>
-- **Pella:** analytics dashboard with role-based access, ECharts and Leaflet heat maps.
+- **Pella business dashboard:** multi-role analytics for administrators and branch managers, with role-based access, ECharts, Leaflet heat maps, filterable tables and promotion management.
 - **MilkPEP:** real-time branded video customiser with an optimised asset pipeline and Vitest at 90%+.
 </details>
 
@@ -276,5 +278,5 @@ flowchart LR
 Keywords: Lead Software Engineer, Design Engineer, Freelance React Native Developer, Contract Next.js Developer,
 Figma UI/UX Designer who codes, Product Designer and Engineer, MVP development, App Store and Google Play launch,
 React, Next.js 16, React Native, Expo, TypeScript, Monorepo, Turborepo, App size optimisation, Web performance,
-Design systems, Konnect, Seoul, remote contract, US, UK, Europe, Germany, Netherlands, Switzerland, UAE, Korea, Japan
+Design systems, Konnect, Chili's, Starbucks, Hard Rock, Creative Planning, Fogo de Chao, Pella, MilkPEP, Seoul, remote contract, US, UK, Europe, Germany, Netherlands, Switzerland, UAE, Korea, Japan
 -->
